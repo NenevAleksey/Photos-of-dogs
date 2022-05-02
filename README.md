@@ -1,6 +1,6 @@
 # **Photos of Dogs**
 
-# [GitHub Pages]()
+# [GitHub Pages](https://NenevAleksey.github.io/photos-of-dogs/)
 
 ## О проекте ##
 Одностраничное приложение **Photos of Dogs** представляет собой набор анимированных фотографий с различными породами собак.
